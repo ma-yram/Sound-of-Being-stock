@@ -1,0 +1,688 @@
+{
+  "sprites": [
+    {
+      "fileName": "0000.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "fileName": "0001.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 1920,
+      "y": 0
+    },
+    {
+      "fileName": "0002.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 3840,
+      "y": 0
+    },
+    {
+      "fileName": "0003.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 5760,
+      "y": 0
+    },
+    {
+      "fileName": "0004.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 7680,
+      "y": 0
+    },
+    {
+      "fileName": "0005.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 9600,
+      "y": 0
+    },
+    {
+      "fileName": "0006.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 11520,
+      "y": 0
+    },
+    {
+      "fileName": "0007.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 13440,
+      "y": 0
+    },
+    {
+      "fileName": "0008.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 15360,
+      "y": 0
+    },
+    {
+      "fileName": "0009.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 17280,
+      "y": 0
+    },
+    {
+      "fileName": "0010.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 0,
+      "y": 1080
+    },
+    {
+      "fileName": "0011.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 1920,
+      "y": 1080
+    },
+    {
+      "fileName": "0012.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 3840,
+      "y": 1080
+    },
+    {
+      "fileName": "0013.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 5760,
+      "y": 1080
+    },
+    {
+      "fileName": "0014.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 7680,
+      "y": 1080
+    },
+    {
+      "fileName": "0015.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 9600,
+      "y": 1080
+    },
+    {
+      "fileName": "0016.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 11520,
+      "y": 1080
+    },
+    {
+      "fileName": "0017.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 13440,
+      "y": 1080
+    },
+    {
+      "fileName": "0018.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 15360,
+      "y": 1080
+    },
+    {
+      "fileName": "0019.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 17280,
+      "y": 1080
+    },
+    {
+      "fileName": "0020.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 0,
+      "y": 2160
+    },
+    {
+      "fileName": "0021.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 1920,
+      "y": 2160
+    },
+    {
+      "fileName": "0022.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 3840,
+      "y": 2160
+    },
+    {
+      "fileName": "0023.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 5760,
+      "y": 2160
+    },
+    {
+      "fileName": "0024.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 7680,
+      "y": 2160
+    },
+    {
+      "fileName": "0025.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 9600,
+      "y": 2160
+    },
+    {
+      "fileName": "0026.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 11520,
+      "y": 2160
+    },
+    {
+      "fileName": "0027.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 13440,
+      "y": 2160
+    },
+    {
+      "fileName": "0028.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 15360,
+      "y": 2160
+    },
+    {
+      "fileName": "0029.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 17280,
+      "y": 2160
+    },
+    {
+      "fileName": "0030.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 0,
+      "y": 3240
+    },
+    {
+      "fileName": "0031.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 1920,
+      "y": 3240
+    },
+    {
+      "fileName": "0032.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 3840,
+      "y": 3240
+    },
+    {
+      "fileName": "0033.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 5760,
+      "y": 3240
+    },
+    {
+      "fileName": "0034.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 7680,
+      "y": 3240
+    },
+    {
+      "fileName": "0035.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 9600,
+      "y": 3240
+    },
+    {
+      "fileName": "0036.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 11520,
+      "y": 3240
+    },
+    {
+      "fileName": "0037.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 13440,
+      "y": 3240
+    },
+    {
+      "fileName": "0038.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 15360,
+      "y": 3240
+    },
+    {
+      "fileName": "0039.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 17280,
+      "y": 3240
+    },
+    {
+      "fileName": "0040.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 0,
+      "y": 4320
+    },
+    {
+      "fileName": "0041.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 1920,
+      "y": 4320
+    },
+    {
+      "fileName": "0042.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 3840,
+      "y": 4320
+    },
+    {
+      "fileName": "0043.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 5760,
+      "y": 4320
+    },
+    {
+      "fileName": "0044.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 7680,
+      "y": 4320
+    },
+    {
+      "fileName": "0045.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 9600,
+      "y": 4320
+    },
+    {
+      "fileName": "0046.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 11520,
+      "y": 4320
+    },
+    {
+      "fileName": "0047.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 13440,
+      "y": 4320
+    },
+    {
+      "fileName": "0048.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 15360,
+      "y": 4320
+    },
+    {
+      "fileName": "0049.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 17280,
+      "y": 4320
+    },
+    {
+      "fileName": "0050.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 0,
+      "y": 5400
+    },
+    {
+      "fileName": "0051.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 1920,
+      "y": 5400
+    },
+    {
+      "fileName": "0052.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 3840,
+      "y": 5400
+    },
+    {
+      "fileName": "0053.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 5760,
+      "y": 5400
+    },
+    {
+      "fileName": "0054.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 7680,
+      "y": 5400
+    },
+    {
+      "fileName": "0055.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 9600,
+      "y": 5400
+    },
+    {
+      "fileName": "0056.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 11520,
+      "y": 5400
+    },
+    {
+      "fileName": "0057.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 13440,
+      "y": 5400
+    },
+    {
+      "fileName": "0058.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 15360,
+      "y": 5400
+    },
+    {
+      "fileName": "0059.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 17280,
+      "y": 5400
+    },
+    {
+      "fileName": "0060.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 0,
+      "y": 6480
+    },
+    {
+      "fileName": "0061.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 1920,
+      "y": 6480
+    },
+    {
+      "fileName": "0062.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 3840,
+      "y": 6480
+    },
+    {
+      "fileName": "0063.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 5760,
+      "y": 6480
+    },
+    {
+      "fileName": "0064.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 7680,
+      "y": 6480
+    },
+    {
+      "fileName": "0065.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 9600,
+      "y": 6480
+    },
+    {
+      "fileName": "0066.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 11520,
+      "y": 6480
+    },
+    {
+      "fileName": "0067.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 13440,
+      "y": 6480
+    },
+    {
+      "fileName": "0068.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 15360,
+      "y": 6480
+    },
+    {
+      "fileName": "0069.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 17280,
+      "y": 6480
+    },
+    {
+      "fileName": "0070.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 0,
+      "y": 7560
+    },
+    {
+      "fileName": "0071.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 1920,
+      "y": 7560
+    },
+    {
+      "fileName": "0072.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 3840,
+      "y": 7560
+    },
+    {
+      "fileName": "0073.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 5760,
+      "y": 7560
+    },
+    {
+      "fileName": "0074.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 7680,
+      "y": 7560
+    },
+    {
+      "fileName": "0075.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 9600,
+      "y": 7560
+    },
+    {
+      "fileName": "0076.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 11520,
+      "y": 7560
+    },
+    {
+      "fileName": "0077.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 13440,
+      "y": 7560
+    },
+    {
+      "fileName": "0078.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 15360,
+      "y": 7560
+    },
+    {
+      "fileName": "0079.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 17280,
+      "y": 7560
+    },
+    {
+      "fileName": "0080.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 0,
+      "y": 8640
+    },
+    {
+      "fileName": "0081.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 1920,
+      "y": 8640
+    },
+    {
+      "fileName": "0082.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 3840,
+      "y": 8640
+    },
+    {
+      "fileName": "0083.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 5760,
+      "y": 8640
+    },
+    {
+      "fileName": "0084.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 7680,
+      "y": 8640
+    },
+    {
+      "fileName": "0085.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 9600,
+      "y": 8640
+    },
+    {
+      "fileName": "0086.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 11520,
+      "y": 8640
+    },
+    {
+      "fileName": "0087.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 13440,
+      "y": 8640
+    },
+    {
+      "fileName": "0088.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 15360,
+      "y": 8640
+    },
+    {
+      "fileName": "0089.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 17280,
+      "y": 8640
+    },
+    {
+      "fileName": "0090.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 0,
+      "y": 9720
+    },
+    {
+      "fileName": "0091.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 1920,
+      "y": 9720
+    },
+    {
+      "fileName": "0092.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 3840,
+      "y": 9720
+    },
+    {
+      "fileName": "0093.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 5760,
+      "y": 9720
+    },
+    {
+      "fileName": "0094.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 7680,
+      "y": 9720
+    },
+    {
+      "fileName": "0095.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 9600,
+      "y": 9720
+    },
+    {
+      "fileName": "0096.png",
+      "width": 1920,
+      "height": 1080,
+      "x": 11520,
+      "y": 9720
+    }
+  ],
+  "packMode": "grid",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 19200,
+  "spriteSheetHeight": 10800
+}
